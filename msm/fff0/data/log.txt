@@ -1,0 +1,9 @@
+Saving directory: data/
+Simulation parameters:
+K boltz= 1
+Timesteps= 100000000
+dt= 0.001
+Output trj= 1
+MSM parameters:
+mx= 50
+my= 50
